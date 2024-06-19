@@ -5,7 +5,7 @@ Virtual Reality Experience: Users can navigate through the art gallery in a 3D s
 Artwork Display: Various artworks are displayed in the gallery, each with its own 3D model or image.
 Interactive Elements: Users can interact with the artworks by clicking on them to view more details or information.
 Customizable Environment: The gallery environment can be customized with different layouts, lighting, and background settings.
-
+ 
 #Technologies Used:
 HTML: Used for creating the structure and content of the webpage.
 A-Frame: Utilized for building the VR experience and rendering 3D elements in the browser.
